@@ -21,7 +21,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Create a heroku account here: https://signup.heroku.com. Make sure to verify your email and set a password. If you already have a heroku account, log into it.
 - Click this button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://pudimsoftproxyservice-mtfcaxa1.b4a.run])
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b563738-7fec-49e6-8eb6-7cda67bd5692/deploy-status)](https://app.netlify.com/sites/pudimsoftblumeproxyservice/deploys)
 
 - Type in whatever name you want.
 - Click "Deploy app". Don't touch any of the variables unless you know what you're doing.
